@@ -10,6 +10,7 @@ const SidebarTwo = () => {
       {icon:<BsCodeSlash/>,name:'Reactjs'},
       {icon:<BsCloudDrizzle/>,name:'Weather'},
       {icon:<BsCupHot/>,name:'Coffee'},
+      {icon:<BsCupHot/>,name:'Lovetoday'},
       {icon:<BsDisplay/>,name:'NamasteJs'},
       {icon:<BsEmojiSmile/>,name:'Festivals'},
       {icon:<BsEvFront/>,name:'Cars'},

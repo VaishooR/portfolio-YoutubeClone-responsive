@@ -4,7 +4,7 @@ import VideoContainer from './VideoContainer';
 import { getVideosFromApi } from './constants';
 
 const Body = () => {
-    const[selectedCategory,setselectedCategory]=useState('Home');
+    const[selectedCategory,setselectedCategory]=useState('LoveToday');
     const[videos,setvideos]=useState([])
 
     useEffect(()=>{
